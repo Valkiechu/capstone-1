@@ -63,7 +63,15 @@ button:hover {
   }
 }
 
-.nav.navbar{
-  background-color: black;
+.title-of-shop{
+  color: black;
+  text-shadow: 4px 4px 10px greenyellow;
+  font-size: 5em;
+}
+
+.para-1,.para-2{
+  color: black;
+  text-shadow: 4px 4px 10px whitesmoke;
+  font-weight: bold;
 
 }
