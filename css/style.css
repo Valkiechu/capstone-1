@@ -62,3 +62,8 @@ button:hover {
     width: 100%;
   }
 }
+
+.nav.navbar{
+  background-color: black;
+
+}
