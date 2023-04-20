@@ -20,5 +20,3 @@ as well there is a css file with some css i have done to some
 
 This is the first project i have done after taking classes on pluarsight.
 
-
-
